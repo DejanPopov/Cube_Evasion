@@ -5,3 +5,8 @@ time.delatime -> How long each frame took to execute, when we multiplay by time.
 ![alt text](image.png)
 
 [SerializeField] Variable will show up in Unity Editor
+
+
+CINEMACHINE - Follow player with camera , manages multiple camera managment - Install frrom Package Manager
+![alt text](image-1.png)
+Add CinemachineCamera -> Tracking Target -> Player
