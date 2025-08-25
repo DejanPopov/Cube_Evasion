@@ -10,3 +10,7 @@ time.delatime -> How long each frame took to execute, when we multiplay by time.
 CINEMACHINE - Follow player with camera , manages multiple camera managment - Install frrom Package Manager
 ![alt text](image-1.png)
 Add CinemachineCamera -> Tracking Target -> Player
+
+COLLISION
+![alt text](image-2.png)
+Rigidbody setup, so cube doesnt go all over the place , you can freeze
