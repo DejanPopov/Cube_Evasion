@@ -263,7 +263,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7db96f02807c8cd4eb6ef02d3015f7cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FlyAtPlayer
-  projectileSpeed: 12
+  projectileSpeed: 2
   player: {fileID: 1113342791}
 --- !u!135 &122337303
 SphereCollider:
@@ -2476,7 +2476,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7db96f02807c8cd4eb6ef02d3015f7cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FlyAtPlayer
-  projectileSpeed: 10
+  projectileSpeed: 4
   player: {fileID: 1113342791}
 --- !u!135 &1981487052
 SphereCollider:
@@ -2602,7 +2602,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7db96f02807c8cd4eb6ef02d3015f7cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FlyAtPlayer
-  projectileSpeed: 11
+  projectileSpeed: 10
   player: {fileID: 1113342791}
 --- !u!135 &2060665594
 SphereCollider:
