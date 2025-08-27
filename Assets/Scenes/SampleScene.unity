@@ -1438,6 +1438,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80bd9a770a411b0b4b0ec789962634b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spinner
+  xAngle: 0
+  yAngle: 1.5
+  zAngle: 0
 --- !u!114 &1374876447
 MonoBehaviour:
   m_ObjectHideFlags: 0
