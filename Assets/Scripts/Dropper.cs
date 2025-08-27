@@ -21,7 +21,6 @@ public class Dropper : MonoBehaviour
         {
             myMyeshRenderer.enabled = true;
             myRigidBody.useGravity  = true;
-            Debug.Log("Dropper is falling!");
         }
     }
 }
